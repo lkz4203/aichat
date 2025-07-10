@@ -6,6 +6,11 @@ mod rag;
 mod render;
 mod repl;
 mod serve;
+mod cache;
+mod plugins;
+mod suggestions;
+mod security;
+mod monitoring;
 #[macro_use]
 mod utils;
 
